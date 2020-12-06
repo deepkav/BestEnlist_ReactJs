@@ -16,7 +16,7 @@ var sampleinput = [
   { name: "John", age: 26 },
   { name: "siva", age: 27 },
 ];
-undefined
+//undefined
 console.log(sampleinput.befindobject("name"));
-VM77:1 (2) ["John", "siva"]0: "John"1: "siva"length: 2__proto__: Array(0)
-undefined
+//VM77:1 (2) ["John", "siva"]0: "John"1: "siva"length: 2__proto__: Array(0)
+//undefined
